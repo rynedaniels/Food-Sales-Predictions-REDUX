@@ -1,5 +1,5 @@
 # Food Sales Predictions
-## "Unearthing Sales Insights for Strategic Business Decisions
+## Unearthing Sales Insights for Strategic Business Decisions
 
 **Charles "Ryne" Daniels**
 
